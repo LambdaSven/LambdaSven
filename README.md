@@ -1,8 +1,8 @@
-### Stephen Smith
+### [Stephen Smith](https://sasmith.ca)
 
 Recent Graduate skilled in Java and C, with strong problem solving and critical thinking skills. 
 
-I am passionate about learning new languages and solving problems; I enjoy nothing more than immersing myself deep into a problem to try to find an ideal solution. I enjoy solving coding puzzles and creating detailed writeups about my solutions which can be found on my [website](https://sasmith.ca)
+I am passionate about learning new languages and solving problems. 
 <!--
 **stephen-a-smith/stephen-a-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
