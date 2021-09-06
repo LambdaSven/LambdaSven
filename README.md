@@ -1,6 +1,6 @@
 ### [Stephen Smith](https://sasmith.ca)
 
-Recent Graduate skilled in Java and C, with strong problem solving and critical thinking skills. 
+Recent Graduate skilled in Java and C#, as well as knowing some C, Rust, and F#. I have strong problem solving and critical thinking skills. 
 
 I am passionate about learning new languages and solving problems. 
 <!--
