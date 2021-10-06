@@ -1,8 +1,8 @@
 ### [Stephen Smith](https://sasmith.ca)
 
-Recent Graduate skilled in Java and C#, as well as knowing some C, Rust, and F#. I have strong problem solving and critical thinking skills. 
+Student at Conestoga College skilled in Java, C, C#, F# and Python, as well as knowing bits and pieces of other languages. I have strong problem solving and critical thinking skills. 
 
-I am passionate about learning new languages and solving problems. 
+I am passionate about learning and solving problems. 
 <!--
 **stephen-a-smith/stephen-a-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
