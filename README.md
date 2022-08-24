@@ -1,6 +1,6 @@
 ### [Stephen Smith](https://sasmith.ca)
 
-Student at Conestoga College skilled in Java, C, C#, F# and Python, as well as knowing bits and pieces of other languages. I have strong problem solving and critical thinking skills. 
+Test Developer at D2L
 
 I am passionate about learning and solving problems. 
 <!--
